@@ -26,7 +26,7 @@ export default StyleSheet.create({
     position: 'absolute',
     paddingTop: 15,
     paddingHorizontal: 15,
-    backgroundColor: '#fff',
+    backgroundColor: 'black',
     borderRadius: 3,
     overflow: 'hidden',
   },
